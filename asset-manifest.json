@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/schedules/static/css/main.66126bd2.css",
+    "main.css": "/schedules/static/css/main.753ea59e.css",
     "main.js": "/schedules/static/js/main.e5ddf8e4.js",
     "static/media/tvimages.png": "/schedules/static/media/tvimages.08120a3da7a41243823c.png",
     "static/media/Atami-Regular.otf": "/schedules/static/media/Atami-Regular.52985082120f87fa33e3.otf",
     "index.html": "/schedules/index.html",
     "static/media/FormaDown.svg": "/schedules/static/media/FormaDown.ce6cdfc6f0c81cb3c64dd97573299259.svg",
     "static/media/Shape.svg": "/schedules/static/media/Shape.fb96b3e7d41578cc819f69d0699e1d31.svg",
-    "main.66126bd2.css.map": "/schedules/static/css/main.66126bd2.css.map",
+    "main.753ea59e.css.map": "/schedules/static/css/main.753ea59e.css.map",
     "main.e5ddf8e4.js.map": "/schedules/static/js/main.e5ddf8e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.66126bd2.css",
+    "static/css/main.753ea59e.css",
     "static/js/main.e5ddf8e4.js"
   ]
 }
